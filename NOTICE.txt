@@ -1,0 +1,18 @@
+PARANA
+Copyright 2011 Center for Bioinformatics and Computational Biology, University of Maryland
+
+The algorithms and source code for this program were developed by:
+============
+Rob Patro
+Emre Sefer
+Justin Malin
+Guillaume Marcais
+Saket Navlakha
+Carl Kingsford
+
+The method is described in the paper:
+
+[1] Rob Patro, Emre Sefer, Justin Malin, Guillaume Marçais, Saket Navlakha,
+    and Carl Kingsford. Parsimonious Reconstruction of Network Evolution. WABI 2011.
+
+
